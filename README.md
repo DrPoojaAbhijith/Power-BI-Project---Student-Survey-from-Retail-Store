@@ -1,12 +1,13 @@
 # Power-BI-Project-Student-Survey-from-Retail-Store
 
-Description - In United States, there are many stores in which a survey was conducted based on students i.e. how much they are spending on different kind of purchases like Video games, Indoor games, Toys, Books, Gadgets etc. In the data set (Student Survey), Store setting is the column that explains the Type of location in which the store is present. By using data set (Student Survey), try to extract the meaningful Insights. 
+## Description 
+In United States, there are many stores in which a survey was conducted based on students i.e. how much they are spending on different kind of purchases like Video games, Indoor games, Toys, Books, Gadgets etc. In the data set (Student Survey), Store setting is the column that explains the Type of location in which the store is present. By using data set (Student Survey), try to extract the meaningful Insights. 
 
-Industry Type – Retail Store 
+## Industry Type – Retail Store 
 
-Data set - Student survey 
+## Data set - Student survey 
 
-Problem Statement- Create a Power BI Report: 
+## Problem Statement- Create a Power BI Report: 
 1. Tabular Visualization - Format the total amount of purchase (TAP) based on ‘Store location’ and ‘Store setting’: - 
     If 0<TAP<35000, then records should be in red color 
     If 35000<=TAP<60000, then records should be in yellow color 
